@@ -1,0 +1,54 @@
+
+#include "menuh.h"
+
+ID MENU
+
+BEGIN
+	POPUP "&File"
+	BEGIN
+        MENUITEM "&Save", MY_SAVE
+        MENUITEM "&Load", MY_LOAD
+		MENUITEM "&Close", MY_EXIT
+	END
+	POPUP "&Line"
+	BEGIN
+		MENUITEM "&LineParametric", MY_LINE_PARAMETRIC
+		MENUITEM "&LineNaiive", MY_LINE_NAIIVE
+		MENUITEM "&LineSimpleDDA", MY_LINE_SIMPLE_DDA
+        MENUITEM "&LineIntDDA" , MY_LINE_INT_DDA
+        MENUITEM "&LineIntMidPoint" , MY_LINE_MIDPOINT
+	END
+	POPUP "&Circle"
+	BEGIN
+		MENUITEM "&CircleDirect", MY_CIRCLE_DIRECT
+		MENUITEM "&CircleParametricByPixel", MY_CIRCLE_PARAMETRIC
+		MENUITEM "&CircleParametricBy8Pixels", MY_CIRCLE_PARAMETRIC8
+        MENUITEM "&CircleIterative" , MY_CIRCLE_ITERATIVE
+        MENUITEM "&CircleMidPoint1" , MY_CIRCLE_MIDPOINT1
+        MENUITEM "&CircleMidPoint2" , MY_CIRCLE_MIDPOINT2
+	END
+    POPUP "&Ellipse"
+	BEGIN
+		MENUITEM "&EllipseDirect", MY_ELLIPSE_DIRECT
+		MENUITEM "&EllipsePolar", MY_ELLIPSE_POLAR_NO
+		MENUITEM "&EllipseIterative", MY_ELLIPSE_POLAR_YES
+        MENUITEM "&EllipseMidPoint" , MY_ELLIPSE_MIDPOINT
+
+
+	END
+	POPUP "&Curves"
+	BEGIN
+		MENUITEM "&QuadraticCurve", MY_QUADRATIC_CURVE
+		MENUITEM "&QuadraticBezierCurve", MY_BEZIER_QUADRATIC_CURVE
+		MENUITEM "&CubicHermiteCurve", MY_HERMITE_CURVE
+        MENUITEM "&CubicBezierCurve1" , MY_BEZIER_CURVE1
+        MENUITEM "&CubicBezierCurve2" , MY_BEZIER_CURVE2
+        MENUITEM "&Splines" , MY_SPLINES
+
+	END
+    POPUP "&Clipping"
+    BEGIN
+        MENUITEM "&ClippingPolygon",MY_CLIPPING
+    END
+
+END

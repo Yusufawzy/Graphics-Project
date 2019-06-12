@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1556453328 source:c:\users\yusuf\downloads\myproject\menur.rc
+	"menuh.h"
+
+1556453495 c:\users\yusuf\downloads\myproject\menuh.h
+
+1556461533 source:c:\users\yusuf\downloads\myproject\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menuh.h"
+	"circles.h"
+	"ellipse.h"
+	"lines.h"
+	"curves.h"
+	"clipping.h"
+
+1556461533 c:\users\yusuf\downloads\myproject\circles.h
+	"math.h"
+	<iostream>
+
+1556444082 c:\users\yusuf\downloads\myproject\ellipse.h
+	"math.h"
+	<iostream>
+
+1556456841 c:\users\yusuf\downloads\myproject\lines.h
+	"math.h"
+	<iostream>
+
+1556461388 c:\users\yusuf\downloads\myproject\curves.h
+
+1556443906 c:\users\yusuf\downloads\myproject\clipping.h
+
+1556968492 source:c:\users\yusuf\downloads\graphics-project\2d-package\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menuh.h"
+	"circles.h"
+	"ellipse.h"
+	"lines.h"
+	"curves.h"
+	"fstream"
+	"clipping.h"
+	"Rec.h"
+
+1556956448 c:\users\yusuf\downloads\graphics-project\2d-package\menuh.h
+
+1556954835 c:\users\yusuf\downloads\graphics-project\2d-package\circles.h
+	"math.h"
+	<iostream>
+	"Point.h"
+
+1556954424 c:\users\yusuf\downloads\graphics-project\2d-package\ellipse.h
+	"math.h"
+	<iostream>
+	"Point.h"
+
+1556916226 c:\users\yusuf\downloads\graphics-project\2d-package\lines.h
+	"math.h"
+	"point.h"
+	<iostream>
+
+1556967623 c:\users\yusuf\downloads\graphics-project\2d-package\curves.h
+	<vector>
+
+1556925770 c:\users\yusuf\downloads\graphics-project\2d-package\clipping.h
+	<vector>
+	"Rec.h"
+	<tchar.h>
+	<windows.h>
+
+1556957169 source:c:\users\yusuf\downloads\graphics-project\2d-package\menur.rc
+	"menuh.h"
+
+1556906239 c:\users\yusuf\downloads\graphics-project\2d-package\point.h
+	"math.h"
+	<iostream>
+
+1556954408 c:\users\yusuf\downloads\graphics-project\2d-package\include\point.h
+
+1556916316 source:c:\users\yusuf\downloads\graphics-project\2d-package\src\point.cpp
+	"Point.h"
+
+1556912944 source:c:\users\yusuf\desktop\graphics-project\2d-package\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menuh.h"
+	"circles.h"
+	"ellipse.h"
+	"lines.h"
+	"curves.h"
+	"clipping.h"
+
+1556880284 c:\users\yusuf\desktop\graphics-project\2d-package\menuh.h
+
+1556555261 c:\users\yusuf\desktop\graphics-project\2d-package\circles.h
+	"math.h"
+	<iostream>
+
+1556555261 c:\users\yusuf\desktop\graphics-project\2d-package\ellipse.h
+	"math.h"
+	<iostream>
+
+1556912944 c:\users\yusuf\desktop\graphics-project\2d-package\lines.h
+	"math.h"
+	"point.h"
+	<iostream>
+
+1556912876 c:\users\yusuf\desktop\graphics-project\2d-package\curves.h
+
+1556881081 source:c:\users\yusuf\desktop\graphics-project\2d-package\menur.rc
+	"menuh.h"
+
+1556917303 c:\users\yusuf\downloads\graphics-project\2d-package\include\clipping.h
+	<vector>
+
+1556917890 c:\users\yusuf\downloads\graphics-project\2d-package\include\rec.h
+	<tchar.h>
+	<windows.h>
+
+1556555261 c:\users\yusuf\downloads\graphics-project\2d-package\include\circles.h
+	"math.h"
+	<iostream>
+
+1556555261 c:\users\yusuf\downloads\graphics-project\2d-package\include\ellipse.h
+	"math.h"
+	<iostream>
+
+1556916226 c:\users\yusuf\downloads\graphics-project\2d-package\include\lines.h
+	"math.h"
+	"point.h"
+	<iostream>
+
+1556912876 c:\users\yusuf\downloads\graphics-project\2d-package\include\curves.h
+
+1556917428 source:c:\users\yusuf\downloads\graphics-project\2d-package\src\qwe.cpp
+	"qwe.h"
+
+1556917428 c:\users\yusuf\downloads\graphics-project\2d-package\include\qwe.h
+
+1556917149 source:c:\users\yusuf\downloads\graphics-project\2d-package\src\rec.cpp
+	"Rec.h"
+
+1556983766 source:c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menuh.h"
+	"circles.h"
+	"ellipse.h"
+	"lines.h"
+	"curves.h"
+	"fstream"
+	"clipping.h"
+	"Rec.h"
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\menuh.h
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\circles.h
+	"math.h"
+	<iostream>
+	"Point.h"
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\include\point.h
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\ellipse.h
+	"math.h"
+	<iostream>
+	"Point.h"
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\lines.h
+	"math.h"
+	"point.h"
+	<iostream>
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\curves.h
+	<vector>
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\clipping.h
+	<vector>
+	"Rec.h"
+	<tchar.h>
+	<windows.h>
+
+1556983766 c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\include\rec.h
+	<tchar.h>
+	<windows.h>
+
+1556983766 source:c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\menur.rc
+	"menuh.h"
+
+1556983766 source:c:\users\yusuf\downloads\compressed\graphics-project-master\2d-package\src\rec.cpp
+	"Rec.h"
+

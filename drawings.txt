@@ -1,0 +1,1 @@
+drawBezierQuadraticCurve 3 210 28 492 124 314 309 drawCubicBezier2 4 227 104 219 275 219 275 379 336 
